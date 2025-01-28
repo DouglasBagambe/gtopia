@@ -1,0 +1,1 @@
+export const deployed_address="69LyNvR4BcmZcUBmKoBvF8D6at9VzZaLadbL2TLgvqGw"
