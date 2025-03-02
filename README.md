@@ -1,6 +1,6 @@
 # Gtopia 🏡🌍
 
-Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, **acquire citizenship**, and **interact with an AI assistant** for seamless on-chain transactions. Built on **Solana**, Gtopia leverages NFTs for ownership, governance, and identity.
+Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, **acquire citizenship**, and **interact with an AI assistant** for seamless on-chain transactions. Built on **Solana**, Gtopia leverages NFTs for ownership, governance and identity.
 
 ## 🌟 Key Features 
 
