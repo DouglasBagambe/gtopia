@@ -10,7 +10,7 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
 - Interactive **map-based UI** to view and purchase land.
 - Ownership stored **on-chain**, updated in **real-time**.
 
-### 🇺 Citizenship System
+### Citizenship System
 
 - Citizenship is issued as an **NFT**, granting **exclusive perks** (e.g., governance rights, discounts).
 - AI chatbot assists users in **applying for citizenship**.
