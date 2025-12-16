@@ -2,9 +2,9 @@
 
 Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, **acquire citizenship**, and **interact with an AI assistant** for seamless on-chain transactions. Built on **Solana**, Gtopia leverages NFTs for ownership, governance and identity.
 
-## 🌟 Key Features 
+## Key Features 
 
-### 🏠 Land Purchasing System
+### Land Purchasing System
 
 - Users can **buy virtual land** as NFTs, each with **unique metadata** (coordinates, size, tier).
 - Interactive **map-based UI** to view and purchase land.
@@ -24,7 +24,7 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
   - _"Get me citizenship"_
 - Provides **market insights, alerts, and FAQs**.
 
-### 🟢 Interactive Land Map
+### Interactive Land Map
 
 - **Map-based UI** (built with **React + Mapbox/Leaflet**) displaying land ownership.
 - Users can **zoom, pan, and inspect parcels** before buying.
@@ -34,11 +34,11 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
 - Supports **Phantom, Solflare, and other Solana wallets**.
 - Secure **wallet-based login** and transaction execution.
 
-### 🟡 Governance (Future Feature)
+### Governance (Future Feature)
 
 - Citizens can **propose and vote on platform decisions**.
 
-## 🏷️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, Next.js, Tailwind CSS
 - **Blockchain**: Solana (Anchor, Metaplex), IPFS/Arweave for metadata
@@ -46,22 +46,22 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
 - **Wallets**: Solana wallet adapters
 - **Hosting**: Vercel/Netlify (frontend), Solana Devnet (testing)
 
-## 🚀 Development Roadmap
+## Development Roadmap
 
-### ✅ Phase 1: MVP (Current)
+### Phase 1: MVP (Current)
 
 ✔ Smart Contracts (Land & Citizenship NFTs)  
 ✔ Interactive Map UI  
 ✔ AI Chatbot Integration  
 ✔ Wallet Connection
 
-### 🖜 Phase 2: Expansion
+### Phase 2: Expansion
 
 🔹 Governance Mechanism (Citizen Voting)  
 🔹 Auctions & Secondary Land Sales  
 🔹 Additional AI Capabilities
 
-## 🎯 Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -88,17 +88,17 @@ npm run dev
 anchor build && anchor deploy
 ```
 
-## 📌 Contributors
+## Contributors
 
 - **Ainamaani Douglas Bagambe** ([@NileBit-Labs](https://github.com/NileBit-Labs))
 - **Muhangi Eliod** ([@NileBit-Labs](https://github.com/NileBit-Labs))
 - **Shema Collins** ([@NileBit-Labs](https://github.com/NileBit-Labs))
 
-## 🌍 Join the Gtopia Community
+## Join the Gtopia Community
 
-- 💬 Twitter: [@gtopiaofficial](https://twitter.com/gtopiaofficial)
-- 💊 Discord: [Join Here](https://discord.gg/gtopia)
+- Twitter: [@gtopiaofficial](https://twitter.com/gtopiaofficial)
+- Discord: [Join Here](https://discord.gg/gtopia)
 
 ---
 
-🚀 **Gtopia is shaping the future of digital sovereignty!**
+**Gtopia is shaping the future of digital sovereignty!**
