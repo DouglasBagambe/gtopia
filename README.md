@@ -15,7 +15,7 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
 - Citizenship is issued as an **NFT**, granting **exclusive perks** (e.g., governance rights, discounts).
 - AI chatbot assists users in **applying for citizenship**.
 
-### 🤖 AI Assistant Integration
+### AI Assistant Integration
 
 - **GPT-4-powered AI agent** helps users interact with on-chain assets.
 - Users can issue commands like:
@@ -29,7 +29,7 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
 - **Map-based UI** (built with **React + Mapbox/Leaflet**) displaying land ownership.
 - Users can **zoom, pan, and inspect parcels** before buying.
 
-### 🔗 Wallet Integration
+### Wallet Integration
 
 - Supports **Phantom, Solflare, and other Solana wallets**.
 - Secure **wallet-based login** and transaction execution.
