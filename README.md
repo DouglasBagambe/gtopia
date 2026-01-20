@@ -57,9 +57,9 @@ Gtopia is a **blockchain-powered virtual nation** where users can **buy land**, 
 
 ### Phase 2: Expansion
 
-🔹 Governance Mechanism (Citizen Voting)  
-🔹 Auctions & Secondary Land Sales  
-🔹 Additional AI Capabilities
+Governance Mechanism (Citizen Voting)  
+Auctions & Secondary Land Sales  
+Additional AI Capabilities
 
 ## Getting Started
 
